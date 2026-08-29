@@ -24,6 +24,7 @@ ps.setTimestamp(4,Timestamp.valueOf(transaction.getDatetime()));
     }
     else{
         System.out.println("Transaction Failed");
+        //kdfdgouiwvrfhjo
 
     }
     ps.close();
